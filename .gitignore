@@ -1,2 +1,8 @@
 .vscode
 Adapter/*.exe
+Bridge/*.exe
+Composite/*.exe
+Decorator/*.exe
+Facade/*.exe
+Flyweight/*.exe
+Proxy/*.exe
